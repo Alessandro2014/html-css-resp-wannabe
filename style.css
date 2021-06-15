@@ -129,8 +129,8 @@ img {
   #lezioni .row img,
   #steps .row img,
   #why .row img {
-    width: 70px;
-    height: 60px;
+    width: 90px;
+    height: auto;
     margin-top: 10px;
   }
 
